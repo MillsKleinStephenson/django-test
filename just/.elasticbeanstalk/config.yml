@@ -1,6 +1,6 @@
 branch-defaults:
   default:
-    environment: just-mvp
+    environment: just
 global:
   application_name: just
   default_ec2_keyname: null
