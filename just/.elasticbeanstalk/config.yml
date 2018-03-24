@@ -2,7 +2,7 @@ branch-defaults:
   default:
     environment: just-mvp
 global:
-  application_name: just-mvp
+  application_name: just
   default_ec2_keyname: null
   default_platform: python-3.6
   default_region: eu-west-2
