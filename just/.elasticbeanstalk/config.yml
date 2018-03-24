@@ -1,0 +1,9 @@
+branch-defaults:
+  default:
+    environment: null
+global:
+  application_name: just
+  default_ec2_keyname: null
+  default_platform: python-3.6
+  default_region: us-west-2
+  profile: eb-cli
